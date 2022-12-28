@@ -1,4 +1,4 @@
-### Hi I'm Roxanna De Freitas, front-end developer 👋
+### Hi I'm Roxanna De Freitas, back-end developer 👋
 
 <div align="center">
   <a href="https://github.com/roxanna-df">
