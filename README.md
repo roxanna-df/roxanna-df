@@ -37,7 +37,7 @@ SAP modules basics.
 <h4>📂 Highlighted Projects</h4>
 <b>🔹 ABAP Projects (Learning Path)</b>
 
-Z_CALCULADORA – Modular calculator using PERFORM, message class and selection screen.
+<a href="https://github.com/roxanna-df/abap-calculator" target="_blank">Z_CALCULADORA_RF – Modular calculator using PERFORM, message class and selection screen.</a>
 
 
   <div style="display: inline_block"><br>
