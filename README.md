@@ -6,13 +6,13 @@ Currently based in Portugal, where I work as a Junior Web Developer, and I'm now
 
 <h4>🚀 What I'm working on</h4>
 
-Learning SAP ABAP (Reports, Modularization, DDIC, ALV, BAPI, Enhancements).
+-Learning SAP ABAP (Reports, Modularization, DDIC, ALV, BAPI, Enhancements).
 <br>
-Building ABAP practice projects to strengthen my portfolio.
+-Building ABAP practice projects to strengthen my portfolio.
 <br>
-Improving my clean code and enterprise-level architecture skills.
+-Improving my clean code and enterprise-level architecture skills.
 <br>
-Preparing for a future career as an ABAP Developer.
+-Preparing for a future career as an ABAP Developer.
 
 
 <h4>🛠️ Tech Stack</h4>
