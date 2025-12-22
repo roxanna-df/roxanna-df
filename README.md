@@ -37,7 +37,9 @@ SAP modules basics.
 <h4>📂 Highlighted Projects</h4>
 <b>🔹 ABAP Projects (Learning Path)</b>
 
-<a href="https://github.com/roxanna-df/abap-calculator" target="_blank">Z_CALCULADORA_RF – Modular calculator using PERFORM, message class and selection screen.</a>
+<a href="https://github.com/roxanna-df/abap-calculator" target="__blank">Z_CALCULADORA_RF – Modular calculator using PERFORM, message class and selection screen.</a>
+<br>
+<a href="https://github.com/roxanna-df/abap-calc-days-between-dates" target="__blank">Z_CALC_DAYS_RF – ABAP program that calculates the number of days between two dates.</a>
 
 
   <div style="display: inline_block"><br>
