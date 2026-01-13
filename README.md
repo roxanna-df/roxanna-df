@@ -1,8 +1,8 @@
 ### Hi I'm Roxanna De Freitas👋
-<b>💻 Back-End Developer | PHP & Laravel | Transitioning to SAP ABAP </b>
+<b>💻 Back-End Developer | PHP & Laravel | Learning SAP ABAP </b>
 
 I'm a Back-End Developer with 3 years of experience building web applications using PHP, Laravel, MySQL and modern development practices.
-Currently based in Portugal, where I work as a Junior Web Developer, and I'm now expanding my career into the SAP ecosystem, specializing in ABAP development.
+Currently based in Portugal, where I work as a Back-End Developer.
 
 <h4>🚀 What I'm working on</h4>
 
@@ -12,8 +12,6 @@ Currently based in Portugal, where I work as a Junior Web Developer, and I'm now
 <br>
 -Improving my clean code and enterprise-level architecture skills.
 <br>
--Preparing for a future career as an ABAP Developer.
-
 
 <h4>🛠️ Tech Stack</h4>
 <b>Back-End</b>
